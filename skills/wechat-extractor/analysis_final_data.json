@@ -1,0 +1,1838 @@
+{
+  "account_overview": {
+    "name": "四月槐汐",
+    "signature": "讲温暖的故事，写走心的文字。",
+    "positioning": "个人IP型情感/职场观点分享账号",
+    "stage": "成熟期"
+  },
+  "content_strategy": {
+    "content_types": {
+      "人生建议/观点": 11,
+      "职场/工作": 4,
+      "人际关系": 1,
+      "金钱/财富": 3,
+      "情感/婚恋": 1,
+      "社会现象": 0,
+      "个人成长": 1
+    },
+    "publish_frequency": {
+      "total_days": 32,
+      "total_articles": 30,
+      "avg_per_day": 0.9375
+    },
+    "publish_hours": {
+      "16": 6,
+      "11": 6,
+      "14": 3,
+      "13": 3,
+      "12": 3,
+      "17": 3,
+      "19": 2,
+      "21": 1,
+      "15": 1,
+      "18": 1,
+      "10": 1
+    }
+  },
+  "articles": [
+    {
+      "aid": "2247489166_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489166,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaQyIVyF3LDoxxzApiag4nNHQmSDgvOnOia6naTzs46YTabPreWvTiaP9aM7xEJc6iaBomMPeb6w4vbicyA/0?wx_fmt=jpeg",
+      "create_time": 1768285576,
+      "digest": "不要用将就来对待无法重来的每一天。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489166&amp;idx=1&amp;sn=abc97f55d9c76e766a8f78401f3fe585&amp;chksm=e8516cd4df26e5c259554a707cbfa48a2a675137a430d053f608ae799824813dde6b7b8af013#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "永远不要过临时的生活。",
+      "update_time": 1768306980,
+      "attention_score": 3,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489159_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489159,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaSkqQR0Q6fpvPK1g1vgBpZiaz9uEd9UerHs7UDbWtJ5tjAd6s2RI7FpWWPQs5jlkxhe7ia5QZkicVJibg/0?wx_fmt=jpeg",
+      "create_time": 1768206892,
+      "digest": "没有谁能成为你永远的避风港。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489159&amp;idx=1&amp;sn=b6d7c9d878a0b5b69f28db5b554c15f1&amp;chksm=e8516cdddf26e5cb811db57ec2b37f680472ef3116fdae9158b0da7676b5102a9845ebcd2e03#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "人生是无数次的自我托举。",
+      "update_time": 1768220580,
+      "attention_score": 0,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489139_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489139,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaRo6fibaUdgQvDwh29wcCfAJiaPuJQzGrsaIpf2ZSv7UQSwAt4BvSUyibZSNOpiarWyLW9SEzuyt3pE3g/0?wx_fmt=jpeg",
+      "create_time": 1768100721,
+      "digest": "日子是自己的，不是演给别人看的。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489139&amp;idx=1&amp;sn=2abdb36adbc6415bab314718993b5363&amp;chksm=e8516c29df26e53f9818c172cdc33bcbcb33f8a9ef2925669ff31fec0c0c83c4d42fd088cd96#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "过年，请收起你的穷大方。",
+      "update_time": 1768134180,
+      "attention_score": 2,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489129_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489129,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaQUibKDWgpGFVFbJibqdQcpQLKR3mj4Yh3uHocgUq0fFxtPXhQzqh3MUIx4THibNwq8R7NA52LjwuZsw/0?wx_fmt=jpeg",
+      "create_time": 1767965844,
+      "digest": "身材是生活方式的具象化，是自律与否的诚实标签。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489129&amp;idx=1&amp;sn=f513c1a1180609a02c2534bd5b0ecbd6&amp;chksm=e8516c33df26e525f17cc6b7b1db11b8f86abeb95a6b57b56578e14ad5e0497d5b2427938374#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "你的身材，就是你的阶层。",
+      "update_time": 1768047780,
+      "attention_score": 0,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489125_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489125,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaQUibKDWgpGFVFbJibqdQcpQLvvAmXlCKgaUML6HJOu68skLBxkicYL94NaqXiaJ9yDodFUIR87ThReMg/0?wx_fmt=jpeg",
+      "create_time": 1767935065,
+      "digest": "遇到对的人，你会突然有种踏实感。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489125&amp;idx=1&amp;sn=240a0ee804255bcc1a2fa7eb2cdd8489&amp;chksm=e8516c3fdf26e5299176639c75e6e93837116daf2675fff10f3e9eb5c5963e339ae6946aa526#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "一个人是你的正缘，多半会给你这种感觉。",
+      "update_time": 1767961380,
+      "attention_score": 1,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489117_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489117,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaTy9icSUy8AM5yOphZWibJjICIbJ9DK7FHJ4x6opSmVE17GgF3YnqJOcKibfu0Ez41iaqShl8dsEtIL8A/0?wx_fmt=jpeg",
+      "create_time": 1767859907,
+      "digest": "一无所有时，戒断多巴胺就是最快的发财方式。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489117&amp;idx=1&amp;sn=38865c12c740b67087e822d975b8cf52&amp;chksm=e8516c07df26e511d144b2ebc6138cdfd35a2a9ffab759468f440cab687d86b83812430d8288#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "底层发财最快的方式：戒断多巴胺。",
+      "update_time": 1767874980,
+      "attention_score": 1,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489113_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489113,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaQGZys77ofibnKQlyZ7a4iacaZibKLhFta2aShtITmInWDpgrvBdboYAPR8LWaWGZtw5YxamTlYLCpGw/0?wx_fmt=jpeg",
+      "create_time": 1767767684,
+      "digest": "没有金刚手段，就不要有菩萨心肠。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489113&amp;idx=1&amp;sn=cca77fd8528a13b140ae8964fab76ab8&amp;chksm=e8516c03df26e515030aecd450c0ce0215c133e1b70f6997d2cd6c4583137a6945eff0d32602#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "被人欺负时，要把事情闹大。",
+      "update_time": 1767788580,
+      "attention_score": 0,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489100_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489100,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaTtibGH4MiczXicYUesR0icxBiaxP4BTUiahliad3voDibgRicOdVZ6tESu5Uj1vKWn4X40XIVnWkL5cw9uI7Q/0?wx_fmt=jpeg",
+      "create_time": 1767679577,
+      "digest": "没有永远的拥有，只有随时的失去。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489100&amp;idx=1&amp;sn=c2d06243ff75939036dd9aaa0baa50ea&amp;chksm=e8516c16df26e50028cf205dd50c6beba40636e27229134a66fe652ca174dd22dd68eb8cb959#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "做好随时失去一切的准备。",
+      "update_time": 1767702180,
+      "attention_score": 0,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489092_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489092,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaQhgsjY4W3ibgyHiaHvUCIYQBBM6VVic3JOJXPfpRCAJjbK5tOwS2j010uwV7icjN2Fo1P1PXnhH88wDQ/0?wx_fmt=jpeg",
+      "create_time": 1767613346,
+      "digest": "打工只能解决生存，小生意才能撑起生活。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489092&amp;idx=1&amp;sn=bef7049aa7cbc482d48c58501174f14f&amp;chksm=e8516c1edf26e508f6c2d4add1fc8d8c85536cd97aebf0d7bd9a8b757f4b1263bd0ac015c289#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "生意再小，赚钱都比打工快。",
+      "update_time": 1767615780,
+      "attention_score": 2,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489086_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489086,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaQf494yGAMmszP17skxJG2ArBsJNqcjNoMeRvNeibBIunymx9ryAbW0VlkiavaKGicgj1kfSqMWnct5g/0?wx_fmt=jpeg",
+      "create_time": 1767499753,
+      "digest": "你以为的教养，或许正无声地消耗你的能量。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489086&amp;idx=1&amp;sn=7b482851e83f3ab387c6960ed6c15a46&amp;chksm=e8516c64df26e572dcf0b4ebddec735e7e4cdd4e99ff104bf2c2166753cbb1ab20425dfec4e3#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "你的过分礼貌，正在暴露你的低情商。",
+      "update_time": 1767529380,
+      "attention_score": 1,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489058_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489058,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaSTbNpd7I7tQCMqmqPMPTNXkhtTjMkgvbcqXRYZAZ6iagd3KeJTZicE3URhfuBWkNPvhvRahQdO8F1w/0?wx_fmt=jpeg",
+      "create_time": 1767159726,
+      "digest": "打工只是手段，赎身才是目的。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489058&amp;idx=1&amp;sn=32298abdf2642c9ba9e6fe74a9de16ee&amp;chksm=e8516c78df26e56e004021416beec2c5041700acd0d3ec7192cfb008a3bededd8d0b208adf16#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "上班是为了赎身，不是让你在那里当头牌！",
+      "update_time": 1767356580,
+      "attention_score": 3,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489057_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489057,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaSTbNpd7I7tQCMqmqPMPTNXEw4GexyuJ1wnp1SFXu91yj1uWUwVcIlb6euQhflklOcfRTenYQiaTcQ/0?wx_fmt=jpeg",
+      "create_time": 1767159584,
+      "digest": "存钱不是一蹴而就，而是循序渐进地成长和积累。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489057&amp;idx=1&amp;sn=352ebc011705aea29be6fe8342e9f137&amp;chksm=e8516c7bdf26e56d5948db383d81c475e7d171d148cf6e5c5359674ba79cc2a68fe8f89a5967#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "其实毕业后三年内是很难存钱的。",
+      "update_time": 1767442980,
+      "attention_score": 5,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489047_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489047,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaSTbNpd7I7tQCMqmqPMPTNX7qibUgtKbKfYxHib9MmtQlMtawbesTJ3TNyUJLibADTm9kfPRWrQVYfag/0?wx_fmt=jpeg",
+      "create_time": 1767156746,
+      "digest": "熟人越少，日子越顺。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489047&amp;idx=1&amp;sn=ddcc7e85dfbcf15b4cc631ff9e07f087&amp;chksm=e8516c4ddf26e55b41c4474d673682ebad928afc0c86d8bc14d12a49b2c6112cedcb9196b7da#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "想变强过好，一定要远离熟人。",
+      "update_time": 1767270180,
+      "attention_score": 0,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489037_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489037,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaSTbNpd7I7tQCMqmqPMPTNXgqUG0X5VXK0M6ibeK91FVTQsabmWeKPIe5HshEWvHA52ML9cN8GB53A/0?wx_fmt=jpeg",
+      "create_time": 1767155338,
+      "digest": "与头发和解，其实也是与自己和解。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489037&amp;idx=1&amp;sn=e93715b9118a595a61e81bf43471728e&amp;chksm=e8516c57df26e541bf0888eece7b85b48b3f9b75bfe4d774a9ab82f02111f84dc97f46ac9c71#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "我决定，再也不染头发了。",
+      "update_time": 1767183780,
+      "attention_score": 0,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489033_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489033,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaS7qj07J611RmSX2yR0QZ8uChMOprSPqFfLTPJ4eIXFGPUaJ1pZF1sNzavN15l7ibMmlZXTpjxMUkQ/0?wx_fmt=jpeg",
+      "create_time": 1767095367,
+      "digest": "不要用战术上的勤奋，去掩盖战略上的懒惰。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489033&amp;idx=1&amp;sn=aa9da2ede5763bb1107b32419c4d9924&amp;chksm=e8516c53df26e545098b70094d163b5b5e856aa1746d129a4a370d30c0691904622a9d0f3842#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "满足这4点，说明你该辞职了。",
+      "update_time": 1767097380,
+      "attention_score": 2,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489023_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489023,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaSqKRIZXbwZ1Wbe4UeWvnvJrBciaPtxPOUR51K8ibjnOFjVfk4aVDvdxDau1nm8c5FaHfwCp9ZOn5Zg/0?wx_fmt=jpeg",
+      "create_time": 1766995285,
+      "digest": "只要你不在乎，就没什么能控制你。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489023&amp;idx=1&amp;sn=f06f05e079aac153c8c0aa0299d84b28&amp;chksm=e8516fa5df26e6b35c4b97739b331a81db11d8381d8a8a69ab61d8cb9065cda3e1f402dd02ce#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "一个跟任何人相处都大大方方的秘诀。",
+      "update_time": 1767010980,
+      "attention_score": 3,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489015_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489015,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaQcKHS0nStRDpqHzwtgmcB8ASOhwmQGBWEJhfgNXvuctltZ0yiawyMzG9qMaCzr7hevx5EhTibZwp2A/0?wx_fmt=jpeg",
+      "create_time": 1766911676,
+      "digest": "能力决定你跑多快，心力决定你跑多远。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489015&amp;idx=1&amp;sn=bb498dae29b404d73a13dbc0485b7044&amp;chksm=e8516faddf26e6bb79f68ce8709e43b75ce3e4d67a7d746c8955eb11046063b730c37780a0fb#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "心力，比能力更重要。",
+      "update_time": 1766924580,
+      "attention_score": 0,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247489006_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247489006,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaQVXRr5NHdjHmu4Viaib0LAGOypibqmZy9pAVCyepg0Dia0PRnhuIwtRNhicyDs6IiaYwib1Wszrdl1XpkNA/0?wx_fmt=jpeg",
+      "create_time": 1766804400,
+      "digest": "真正的智者，从不在风中透露自己的航向。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247489006&amp;idx=1&amp;sn=412065c3de5b9f70f73098ae0daa9346&amp;chksm=e8516fb4df26e6a27e1aab9cf6a96a08729bb7922bde750250bc3396d69fccaae78676a78d3d#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "尽量不要让别人知道你的状态。",
+      "update_time": 1766838180,
+      "attention_score": 3,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247488995_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247488995,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaRG2buaHXqtEYgXFylwech0ic6FG1CIwDQOH987CWVVd8jC9zchT2Hup5wP7Yib3Bfiae7ib8ggrI9dEQ/0?wx_fmt=jpeg",
+      "create_time": 1766733389,
+      "digest": "人生不是一场复制粘贴的比赛。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247488995&amp;idx=1&amp;sn=f0e75990176079c76bd07817aa34c141&amp;chksm=e8516fb9df26e6afed939f8bfba52f232f2bb890d5a2c0a5004f7c0e0f7c968b079c36841297#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "全民考公，是现在最荒谬的事。",
+      "update_time": 1766751780,
+      "attention_score": 2,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247488989_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247488989,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaTHMHRlePtxicuYH7ibUyPwr2Eu5ClyicbtyplMlxJUDxRXSc2u6Ahb7zmLmV6mnlhYVDgKaCLia8u0KA/0?wx_fmt=jpeg",
+      "create_time": 1766654700,
+      "digest": "不过是错过一个时代的热闹罢了。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247488989&amp;idx=1&amp;sn=2077f2409f1b0f8655eb789f9b8af680&amp;chksm=e8516f87df26e691b031b3c7e27bb24cf70657e6cfeacedd7ae7d38ef2dc899f022b4fb7bec4#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "2025年，消失的公司年会。",
+      "update_time": 1766665380,
+      "attention_score": 2,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247488970_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247488970,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaSyrEKn6bJo2WTtbVr8kBiawfmsa4ZY7hCGMLCL14e9p3AJULjw3PPTCe8S2dGvCOb400GqEp2RGQg/0?wx_fmt=jpeg",
+      "create_time": 1766480318,
+      "digest": "你的善良，需要带点锋芒。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247488970&amp;idx=1&amp;sn=d4400ea02bf13f159aeb4051754b7229&amp;chksm=e8516f90df26e6868bf0bc3119c07f2ff081b26fb979b98c52128d5800c5e909628b6d8da14b#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "不要让任何人零成本接近你。",
+      "update_time": 1766492580,
+      "attention_score": 3,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247488960_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247488960,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaScBKKeBFTNevjzxcZxlrHCqcQG1QTBm85EwSOmHG19z117PQRfsUNWrs82C9q1X1RiaBCicOqAvXuw/0?wx_fmt=jpeg",
+      "create_time": 1766398023,
+      "digest": "动起来，人生才会有新的故事。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247488960&amp;idx=1&amp;sn=ccd630aef06e2b60e89be5cdbcbe2e9f&amp;chksm=e8516f9adf26e68ce3d488def386da0dd1730a4f07f7e2d85849d3315cb5daa8be282e1782ec#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "人生建议：不能困在一个地方太久。",
+      "update_time": 1766406180,
+      "attention_score": 1,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247488954_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247488954,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaTHtAIHXGLqccetnsv8rSRATFUZOWASUj2TnvAOvG91xOdKH9A5ZRoxzQb2dDGjC1jnSkPxibaIOdA/0?wx_fmt=jpeg",
+      "create_time": 1766285476,
+      "digest": "人的能量是会传染的。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247488954&amp;idx=1&amp;sn=ab1596fb0080daceadf24c55a3f10b70&amp;chksm=e8516fe0df26e6f66bf09b06e0240bcc123e59420e8b1a1b11c2fc7e5338284a63ec517c5ce4#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "永远不要和磁场混乱的人接触。",
+      "update_time": 1766319780,
+      "attention_score": 3,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247488942_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247488942,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaTeUp0YtlqCicGFkxflA7xtyOwtoscjCCCQYvuEZpeLxloujy2JiabnxmFB0p93h7rgZw8m9Z78TSYg/0?wx_fmt=jpeg",
+      "create_time": 1766224337,
+      "digest": "理解并接纳生活的不确定性。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247488942&amp;idx=1&amp;sn=a2e32a198e098ea49ee1552a24f6f4f6&amp;chksm=e8516ff4df26e6e2b8c7b1455021d6c699940f907fb78a27b8b9cb18747e434a2d3b720e0927#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "很多人的存款都将归零。",
+      "update_time": 1766233380,
+      "attention_score": 2,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247488937_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247488937,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaQ3kG0TgpSJNWTpsgGupCMnNS7Q5w6gvTicX383Mdk80t3RbV9Y2NicwMNMPyO3DYnGM5WlGYktgH1w/0?wx_fmt=jpeg",
+      "create_time": 1766114108,
+      "digest": "要活在缘分里，而非执着于关系中。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247488937&amp;idx=1&amp;sn=a1187426f4791f5c5f9f73aa53c8d2c0&amp;chksm=e8516ff3df26e6e5fd2eac0a5026245a850b891a3a4e45f5c38a9d5898584aa907b05f3be2b6#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "所有关系，只要你不要了，局就解了。",
+      "update_time": 1766146980,
+      "attention_score": 4,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247488929_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247488929,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaRYfiaIc0oGSVRibNGZhMYk5hvHNpNYsKyVOiaJLb9pSp17ZbJbrJeTGHJWFCabictdoMX8He4DoVUssg/0?wx_fmt=jpeg",
+      "create_time": 1766047488,
+      "digest": "浮财无根，易散难守。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247488929&amp;idx=1&amp;sn=541ade12b6e815e42f7f50cceb7ad4c6&amp;chksm=e8516ffbdf26e6ed79db80516b15175128a62b57b76cda4478afa57796a416d77ffc4f3b8308#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "人真的不能太早有钱。",
+      "update_time": 1766060580,
+      "attention_score": 2,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247488920_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247488920,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaT62o4wRibibmUeb1VyoYD49ZM64tRbupxL38IYEgibx6StibNSzFZfCJMgejYjgSfjxSoib2EVb6IribYQ/0?wx_fmt=jpeg",
+      "create_time": 1765962522,
+      "digest": "水深则流缓，人贵则语迟。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247488920&amp;idx=1&amp;sn=9abe0d972f60a90cf2276bc52defbe0b&amp;chksm=e8516fc2df26e6d49b5d2df88ae78996cad40f693829ca25d7d704e366867957dd39115cf432#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "不要跟任何人，说太多话。",
+      "update_time": 1765974180,
+      "attention_score": 3,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247488916_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247488916,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaQWBn3Uf7Acyv3hS0YyyhBM4B5CicVcGcYeWSIavprib56t1IXI2bbV7As0iaTUGOfW8E7IiaWtCB9AmQ/0?wx_fmt=jpeg",
+      "create_time": 1765854422,
+      "digest": "钱是看清人性的照妖镜。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247488916&amp;idx=1&amp;sn=fe692e62dc9cfb9a956e5f4fbc9879e2&amp;chksm=e8516fcedf26e6d813f91cf9e0264022dc567c3c115d3a20495c112edfcdff8348720ff0b51f#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "人穷时，什么都是真的。",
+      "update_time": 1765887780,
+      "attention_score": 2,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247488911_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247488911,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaREHKG9dO5SUUCsJknngQs8YicZ3HBfiarqyw8LeZnSqUmZzwa3yy2BDuF4rsSibvBRryll250wicKREA/0?wx_fmt=jpeg",
+      "create_time": 1765770741,
+      "digest": "那些熬不下去的日子，都在偷偷给你铺路。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247488911&amp;idx=1&amp;sn=841d11bd4911558f975f7deff98cd7b5&amp;chksm=e8516fd5df26e6c36d46f65706e7124725ad8b0837fe900602790e44f67c60de69b729032414#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "凡事别急，上天自有安排。",
+      "update_time": 1765801380,
+      "attention_score": 0,
+      "is_commercial": false
+    },
+    {
+      "aid": "2247488907_1",
+      "album_id": "4015270123173756933",
+      "appmsg_album_infos": [
+        {
+          "album_id": 4015270123173756933,
+          "appmsg_album_infos": [],
+          "id": "4015270123173756933",
+          "tagSource": 0,
+          "title": "日常感悟"
+        }
+      ],
+      "appmsgid": 2247488907,
+      "checking": 0,
+      "copyright_type": 1,
+      "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/ZgN5nsUFNiaRk05ZGtUG8Xia8eKubYDJEH7xfibQIw0MOP5MM359icLZkTuu52WtSNVsY2MAs5yItOhHicqO1E1BMJA/0?wx_fmt=jpeg",
+      "create_time": 1765682633,
+      "digest": "别让他人的焦虑成为你前进的枷锁。",
+      "has_red_packet_cover": 0,
+      "is_pay_subscribe": 0,
+      "item_show_type": 0,
+      "itemidx": 1,
+      "link": "http://mp.weixin.qq.com/s?__biz=MzIyODU1MjUwMQ==&amp;mid=2247488907&amp;idx=1&amp;sn=72e978a80f8d5ac85627f58a7babba8b&amp;chksm=e8516fd1df26e6c75caa0b310e7038c6002dd87b1b8c98d70e84ad0c7b809a57518db6b214b4#rd",
+      "media_duration": "0:00",
+      "mediaapi_publish_status": 0,
+      "pay_album_info": {
+        "appmsg_album_infos": []
+      },
+      "tagid": [],
+      "title": "最近几个月不要轻易辞职。",
+      "update_time": 1765714980,
+      "attention_score": 3,
+      "is_commercial": false
+    }
+  ],
+  "strategic_evolution": {
+    "time_segmentation": {
+      "阶段一（早期）": {
+        "time_range": "2025-12-14 ~ 2025-12-23",
+        "article_count": 10,
+        "sample_titles": [
+          "最近几个月不要轻易辞职。",
+          "凡事别急，上天自有安排。",
+          "人穷时，什么都是真的。"
+        ]
+      },
+      "阶段二（中期）": {
+        "time_range": "2025-12-25 ~ 2025-12-31",
+        "article_count": 10,
+        "sample_titles": [
+          "2025年，消失的公司年会。",
+          "全民考公，是现在最荒谬的事。",
+          "尽量不要让别人知道你的状态。"
+        ]
+      },
+      "阶段三（近期）": {
+        "time_range": "2026-01-04 ~ 2026-01-13",
+        "article_count": 10,
+        "sample_titles": [
+          "你的过分礼貌，正在暴露你的低情商。",
+          "生意再小，赚钱都比打工快。",
+          "做好随时失去一切的准备。"
+        ]
+      }
+    },
+    "content_strategy_changes": {
+      "阶段一（早期）": {
+        "title_styles": {
+          "悬念式": 10,
+          "数字式": 0,
+          "否定式": 6,
+          "祈使式": 1,
+          "疑问式": 0
+        },
+        "emotional_tones": {
+          "警示性": 0,
+          "启发性": 1,
+          "共鸣性": 3
+        },
+        "avg_title_length": 12.8
+      },
+      "阶段二（中期）": {
+        "title_styles": {
+          "悬念式": 9,
+          "数字式": 2,
+          "否定式": 1,
+          "祈使式": 1,
+          "疑问式": 0
+        },
+        "emotional_tones": {
+          "警示性": 1,
+          "启发性": 1,
+          "共鸣性": 2
+        },
+        "avg_title_length": 14.3
+      },
+      "阶段三（近期）": {
+        "title_styles": {
+          "悬念式": 10,
+          "数字式": 0,
+          "否定式": 1,
+          "祈使式": 1,
+          "疑问式": 0
+        },
+        "emotional_tones": {
+          "警示性": 2,
+          "启发性": 1,
+          "共鸣性": 3
+        },
+        "avg_title_length": 13.7
+      }
+    },
+    "operation_strategy_changes": {
+      "阶段一（早期）": {
+        "primary_publish_hour": 11,
+        "hour_distribution": {
+          "11": 4,
+          "17": 2,
+          "16": 2,
+          "10": 1,
+          "18": 1
+        }
+      },
+      "阶段二（中期）": {
+        "primary_publish_hour": 16,
+        "hour_distribution": {
+          "17": 1,
+          "15": 1,
+          "11": 1,
+          "16": 2,
+          "19": 1,
+          "12": 2,
+          "13": 2
+        }
+      },
+      "阶段三（近期）": {
+        "primary_publish_hour": 14,
+        "hour_distribution": {
+          "12": 1,
+          "19": 1,
+          "14": 3,
+          "16": 2,
+          "13": 1,
+          "21": 1,
+          "11": 1
+        }
+      }
+    },
+    "key_adjustment_points": [],
+    "effectiveness_evaluation": {}
+  },
+  "viral_content_analysis": {
+    "data_level": "L3-推测（基于内容特征，非实际互动数据）",
+    "viral_patterns": {},
+    "title_formulas": [
+      {
+        "formula": "【否定式警示】+ 【行为/状态】",
+        "examples": [
+          "不要让任何人零成本接近你",
+          "永远不要过临时的生活",
+          "不要跟任何人，说太多话"
+        ],
+        "effect": "通过否定形式制造紧迫感和警示效果"
+      },
+      {
+        "formula": "【主体】+ 【判断/本质】",
+        "examples": [
+          "你的身材，就是你的阶层",
+          "心力，比能力更重要",
+          "人穷时，什么都是真的"
+        ],
+        "effect": "直接揭示本质关系，触发认知共鸣"
+      },
+      {
+        "formula": "【真相揭示】+ 【反常识观点】",
+        "examples": [
+          "人真的不能太早有钱",
+          "全民考公，是现在最荒谬的事",
+          "其实毕业后三年内是很难存钱的"
+        ],
+        "effect": "挑战常识，激发好奇心和点击欲望"
+      },
+      {
+        "formula": "【条件场景】+ 【行动建议】",
+        "examples": [
+          "被人欺负时，要把事情闹大",
+          "过年，请收起你的穷大方",
+          "满足这4点，说明你该辞职了"
+        ],
+        "effect": "提供具体场景下的实用建议，强可操作性"
+      }
+    ],
+    "case_studies": [],
+    "top_content": [
+      {
+        "title": "其实毕业后三年内是很难存钱的。",
+        "digest": "存钱不是一蹴而就，而是循序渐进地成长和积累。",
+        "score": 5
+      },
+      {
+        "title": "所有关系，只要你不要了，局就解了。",
+        "digest": "要活在缘分里，而非执着于关系中。",
+        "score": 4
+      },
+      {
+        "title": "永远不要过临时的生活。",
+        "digest": "不要用将就来对待无法重来的每一天。",
+        "score": 3
+      },
+      {
+        "title": "上班是为了赎身，不是让你在那里当头牌！",
+        "digest": "打工只是手段，赎身才是目的。",
+        "score": 3
+      },
+      {
+        "title": "一个跟任何人相处都大大方方的秘诀。",
+        "digest": "只要你不在乎，就没什么能控制你。",
+        "score": 3
+      },
+      {
+        "title": "尽量不要让别人知道你的状态。",
+        "digest": "真正的智者，从不在风中透露自己的航向。",
+        "score": 3
+      }
+    ]
+  },
+  "data_performance": {
+    "data_level": "L3-推测（用户未提供实际互动数据）",
+    "time_distribution": {
+      "by_hour": {
+        "10": 1,
+        "11": 6,
+        "12": 3,
+        "13": 3,
+        "14": 3,
+        "15": 1,
+        "16": 6,
+        "17": 3,
+        "18": 1,
+        "19": 2,
+        "21": 1
+      },
+      "peak_hour": 11,
+      "peak_count": 6,
+      "by_weekday": {
+        "Sunday": 5,
+        "Monday": 5,
+        "Tuesday": 5,
+        "Wednesday": 6,
+        "Thursday": 3,
+        "Friday": 4,
+        "Saturday": 2
+      }
+    },
+    "publishing_patterns": {
+      "total_days": 31,
+      "total_articles": 30,
+      "avg_per_day": 0.967741935483871,
+      "date_range": "2025-12-14 ~ 2026-01-13"
+    },
+    "efficiency_indicators": {}
+  },
+  "audience_profiles": {
+    "data_level": "L2-推理（基于内容特征推导）",
+    "typical_personas": [
+      {
+        "name": "职场焦虑的年轻白领",
+        "demographics": {
+          "age": "25-35岁",
+          "occupation": "职场新人、初中级白领",
+          "life_stage": "职业发展期、经济压力期"
+        },
+        "pain_points": [
+          "工作压力大，不知是否该辞职",
+          "想存钱但总存不下来",
+          "职场人际关系复杂",
+          "对未来感到迷茫"
+        ],
+        "needs": [
+          "职场生存指南",
+          "财务管理建议",
+          "心理慰藉和情绪价值",
+          "人生方向指引"
+        ],
+        "content_preference": [
+          "职场建议",
+          "存钱技巧",
+          "人际关系处理"
+        ],
+        "probability": "40%"
+      },
+      {
+        "name": "追求自我成长的独立女性",
+        "demographics": {
+          "age": "28-40岁",
+          "occupation": "职场中层、自由职业者",
+          "life_stage": "自我觉醒期、价值重塑期"
+        },
+        "pain_points": [
+          "不想被他人的期待束缚",
+          "想要活出真实的自己",
+          "厌倦虚伪的社交",
+          "寻求内心的平静"
+        ],
+        "needs": [
+          "自我认知提升",
+          "情绪管理方法",
+          "人生哲学启发",
+          "精神独立支持"
+        ],
+        "content_preference": [
+          "人生观点",
+          "情感独立",
+          "自我成长"
+        ],
+        "probability": "35%"
+      },
+      {
+        "name": "对现状不满的普通人",
+        "demographics": {
+          "age": "25-45岁",
+          "occupation": "打工族、小生意者",
+          "life_stage": "生存压力期、突破渴望期"
+        },
+        "pain_points": [
+          "钱不够花，想改变现状",
+          "看不清未来方向",
+          "感觉被生活推着走",
+          "羡慕别人的生活"
+        ],
+        "needs": [
+          "赚钱方法启发",
+          "人生逆袭故事",
+          "现实清醒剂",
+          "行动力激发"
+        ],
+        "content_preference": [
+          "赚钱建议",
+          "生活智慧",
+          "现实认知"
+        ],
+        "probability": "25%"
+      }
+    ],
+    "need_hierarchy": {
+      "功能性需求": {
+        "description": "实用建议和方法论",
+        "examples": [
+          "如何存钱",
+          "何时该辞职",
+          "怎么赚钱"
+        ],
+        "weight": "30%"
+      },
+      "情绪价值": {
+        "description": "共鸣、慰藉、情感宣泄",
+        "examples": [
+          "不是你的错",
+          "慢慢来",
+          "接受不确定"
+        ],
+        "weight": "40%"
+      },
+      "认知升级": {
+        "description": "思维方式和人生观点",
+        "examples": [
+          "揭示真相",
+          "打破常识",
+          "提供新视角"
+        ],
+        "weight": "20%"
+      },
+      "身份认同": {
+        "description": "找到同类和归属感",
+        "examples": [
+          "我也这样想",
+          "原来不只我一个",
+          "说出了我的心声"
+        ],
+        "weight": "10%"
+      }
+    },
+    "user_lifecycle": {}
+  },
+  "growth_strategy": {
+    "data_level": "L2-推理 + L3-推测",
+    "cold_start": {
+      "period": "2025-12-14 ~ 2025-12-23",
+      "strategy_analysis": "通过情感共鸣和实用建议打开局面",
+      "content_characteristics": [
+        "情感类内容占比高（如'凡事别急'）",
+        "实用建议类（如'最近几个月不要轻易辞职'）",
+        "金句型标题吸引注意力"
+      ],
+      "推测的冷启动手法": [
+        "可能利用朋友圈传播",
+        "可能通过微信群分享",
+        "可能参与平台话题标签"
+      ]
+    },
+    "retention_mechanisms": [
+      {
+        "mechanism": "固定更新节奏",
+        "description": "保持稳定的日更或隔日更频率，培养用户阅读习惯",
+        "evidence": "近一个月保持0.97篇/日的稳定节奏"
+      },
+      {
+        "mechanism": "情感价值持续输出",
+        "description": "每篇都提供情绪慰藉或认知启发，保持内容价值密度",
+        "evidence": "所有标题和摘要都带有明确的情感主张或观点"
+      },
+      {
+        "mechanism": "多元选题覆盖",
+        "description": "覆盖职场、情感、财富、成长等多维度，扩大用户触达面",
+        "evidence": "内容类型涵盖职场、金钱、人际等6大主题"
+      }
+    ],
+    "platform_leverage": [
+      {
+        "mechanism": "黄金时段发布",
+        "description": "集中在11:00发布，匹配用户活跃时段",
+        "level": "L1-实证"
+      },
+      {
+        "mechanism": "标题优化",
+        "description": "使用否定式、数字式等高吸引力标题公式，提高打开率",
+        "level": "L1-实证"
+      },
+      {
+        "mechanism": "话题标签运用",
+        "description": "可能使用相关话题标签增加曝光（需验证）",
+        "level": "L3-推测"
+      }
+    ]
+  },
+  "monetization_analysis": {
+    "data_level": "L3-推测（基于内容特征推测，无直接证据）",
+    "monetization_types": [
+      {
+        "type": "内容流量分成",
+        "description": "通过平台内容流量获得分成收入",
+        "confidence": "中等",
+        "evidence": "持续稳定更新，内容质量较高"
+      },
+      {
+        "type": "知识付费",
+        "description": "可能有付费专栏、课程或社群",
+        "confidence": "低",
+        "evidence": "内容具有强观点性和方法论，适合延伸为付费产品"
+      },
+      {
+        "type": "个人IP打造",
+        "description": "通过持续输出建立个人品牌，为后续变现铺路",
+        "confidence": "高",
+        "evidence": "统一的人设和价值观输出"
+      }
+    ],
+    "content_ratio": {
+      "total_articles": 30,
+      "commercial_articles": 0,
+      "commercial_ratio": "0.0%",
+      "pure_content_ratio": "100.0%"
+    },
+    "conversion_path": {
+      "stage1": "内容吸引 → 关注账号",
+      "stage2": "持续阅读 → 建立信任",
+      "stage3": "主页引导 → 了解更多",
+      "stage4": "私信/评论 → 建立联系",
+      "stage5": "付费转化 → 实现变现"
+    }
+  },
+  "competitive_analysis": {
+    "data_level": "L2-推理 + L3-推测",
+    "swot_analysis": {
+      "Strengths": [
+        {
+          "item": "稳定的内容输出能力",
+          "description": "日均0.97篇，节奏稳定",
+          "level": "L1-实证"
+        },
+        {
+          "item": "清晰的账号定位",
+          "description": "情感/职场观点分享，人设统一",
+          "level": "L1-实证"
+        },
+        {
+          "item": "高质量标题能力",
+          "description": "掌握多种标题公式，吸引力强",
+          "level": "L2-推理"
+        },
+        {
+          "item": "情感价值输出",
+          "description": "每篇都能提供情绪慰藉或认知启发",
+          "level": "L1-实证"
+        }
+      ],
+      "Weaknesses": [
+        {
+          "item": "缺乏独特性",
+          "description": "观点型账号众多，差异化不明显",
+          "level": "L3-推测"
+        },
+        {
+          "item": "互动数据未知",
+          "description": "无法验证实际用户反馈和粘性",
+          "level": "L1-实证"
+        },
+        {
+          "item": "商业化路径不清晰",
+          "description": "从内容看暂未建立明确变现模式",
+          "level": "L2-推理"
+        }
+      ],
+      "Opportunities": [
+        {
+          "item": "付费产品开发",
+          "description": "可基于观点内容开发课程/社群",
+          "level": "L3-推测"
+        },
+        {
+          "item": "跨平台扩展",
+          "description": "内容可复制到小红书、知乎等平台",
+          "level": "L3-推测"
+        },
+        {
+          "item": "系列化IP打造",
+          "description": "可将内容系列化为书籍或专栏",
+          "level": "L3-推测"
+        }
+      ],
+      "Threats": [
+        {
+          "item": "同质化竞争",
+          "description": "观点型账号竞争激烈",
+          "level": "L3-推测"
+        },
+        {
+          "item": "内容审核风险",
+          "description": "部分观点可能触及敏感话题",
+          "level": "L3-推测"
+        },
+        {
+          "item": "用户注意力分散",
+          "description": "短视频时代图文内容吸引力下降",
+          "level": "L3-推测"
+        }
+      ]
+    },
+    "differentiation": {
+      "positioning": "温暖治愈型观点分享",
+      "tone": "贴心、真诚、不说教",
+      "content_angle": "关注普通人的困惑和焦虑",
+      "vs_competitors": {
+        "vs_鸡汤类账号": "更接地气，观点更现实",
+        "vs_干货类账号": "更有温度，提供情感价值",
+        "vs_犀利类账号": "更温和，不制造对立"
+      }
+    },
+    "competitive_moat": [
+      {
+        "element": "持续输出能力",
+        "strength": "高",
+        "description": "日更节奏稳定，内容质量稳定"
+      },
+      {
+        "element": "情感共鸣能力",
+        "strength": "中高",
+        "description": "善于捕捉普通人的情绪和痛点"
+      },
+      {
+        "element": "标题创作能力",
+        "strength": "中高",
+        "description": "掌握多种标题公式，吸引力强"
+      },
+      {
+        "element": "用户粘性",
+        "strength": "未知",
+        "description": "缺乏互动数据，无法评估"
+      }
+    ]
+  },
+  "actionable_insights": {
+    "content_benchmarking": {
+      "选题方向建议": [
+        {
+          "direction": "职场痛点挖掘",
+          "具体选题": [
+            "辞职时机判断（'什么时候该辞职'系列）",
+            "职场生存法则（'上班是为了XX，不是为了XX'句式）",
+            "工作心态调整（'打工只是手段'类观点）"
+          ],
+          "对标案例": "满足这4点，说明你该辞职了 / 上班是为了赎身，不是让你在那里当头牌"
+        },
+        {
+          "direction": "财富观点输出",
+          "具体选题": [
+            "存钱方法论（'毕业X年内很难存钱'类现实观点）",
+            "赚钱路径启发（'小生意vs打工'对比）",
+            "财富真相揭示（'人真的不能太早有钱'反常识观点）"
+          ],
+          "对标案例": "生意再小，赚钱都比打工快 / 底层发财最快的方式：戒断多巴胺"
+        },
+        {
+          "direction": "人生建议警示",
+          "具体选题": [
+            "行为准则（'永远不要XX'句式）",
+            "关系处理（'不要让任何人XX'警示型）",
+            "生活智慧（'做好XX的准备'系列）"
+          ],
+          "对标案例": "永远不要过临时的生活 / 不要让任何人零成本接近你"
+        }
+      ],
+      "标题模板库": [
+        {
+          "公式": "【否定式】+ 【行为/状态】",
+          "示例": [
+            "不要让任何人零成本接近你",
+            "永远不要过临时的生活",
+            "不要跟任何人，说太多话"
+          ],
+          "使用场景": "传达警示、建立紧迫感、触发防御心理",
+          "关键词库": [
+            "不要",
+            "永远不要",
+            "千万别",
+            "尽量不要"
+          ]
+        },
+        {
+          "公式": "【主体】+ 【判断/本质】",
+          "示例": [
+            "你的身材，就是你的阶层",
+            "心力，比能力更重要",
+            "人穷时，什么都是真的"
+          ],
+          "使用场景": "揭示本质、挑战认知、制造共鸣",
+          "关键词库": [
+            "就是",
+            "才是",
+            "其实",
+            "真的"
+          ]
+        },
+        {
+          "公式": "【真相揭示词】+ 【反常识观点】",
+          "示例": [
+            "人真的不能太早有钱",
+            "全民考公，是现在最荒谬的事",
+            "其实毕业后三年内是很难存钱的"
+          ],
+          "使用场景": "挑战常识、激发好奇、提供新视角",
+          "关键词库": [
+            "其实",
+            "真的",
+            "才懂",
+            "原来"
+          ]
+        },
+        {
+          "公式": "【条件场景】+ 【行动建议】",
+          "示例": [
+            "被人欺负时，要把事情闹大",
+            "过年，请收起你的穷大方",
+            "满足这4点，说明你该辞职了"
+          ],
+          "使用场景": "提供具体指导、强可操作性、场景化共鸣",
+          "关键词库": [
+            "时",
+            "当",
+            "如果",
+            "满足X点"
+          ]
+        }
+      ],
+      "开头钩子设计": [
+        {
+          "类型": "痛点切入式",
+          "示例": "你有没有发现，越长大越觉得...",
+          "效果": "快速引发共鸣，让读者产生'说的就是我'的感觉"
+        },
+        {
+          "类型": "反常识陈述",
+          "示例": "很多人以为XX是好事，其实...",
+          "效果": "制造认知冲突，激发继续阅读欲望"
+        },
+        {
+          "类型": "金句先行式",
+          "示例": "水深则流缓，人贵则语迟。",
+          "效果": "先抛出金句，再展开解释，增强记忆点"
+        }
+      ]
+    },
+    "operation_benchmarking": {
+      "发布节奏建议": {
+        "频率": "日更或隔日更（保持0.8-1.2篇/日）",
+        "最佳时段": "11:00 或 16:00-17:00（对标账号的黄金时段）",
+        "一周规划": "周一至周日均可发布，重点关注工作日的午间和傍晚",
+        "风险提示": "避免连续多日断更，会影响算法推荐和用户粘性"
+      },
+      "内容长度建议": {
+        "标题": "12-15字最佳，保持悬念感",
+        "摘要": "15-25字，提炼核心观点或金句",
+        "正文": "800-1500字（推测，基于公众号阅读习惯）"
+      },
+      "互动策略": {
+        "评论区运营": [
+          "及时回复核心评论，建立与用户的连接",
+          "精选有代表性的评论置顶，引导更多讨论",
+          "适当抛出问题，激发用户参与"
+        ],
+        "用户激励": [
+          "定期感谢读者陪伴",
+          "征集用户故事或问题",
+          "举办互动活动（如话题征集）"
+        ]
+      }
+    },
+    "differentiation_strategy": {
+      "定位差异化": [
+        {
+          "维度": "情感基调",
+          "对标账号特点": "温暖、真诚、不说教",
+          "你的差异化方向": "可选择更犀利或更幽默的风格，避免同质化",
+          "示例": "如果对标账号是'贴心姐姐'，你可以做'毒舌闺蜜'或'搞笑大叔'"
+        },
+        {
+          "维度": "内容深度",
+          "对标账号特点": "观点型，较为浅层",
+          "你的差异化方向": "可提供更深度的分析和方法论，增加干货含量",
+          "示例": "在'不要XXX'的基础上，详细讲解'为什么'和'怎么做'"
+        },
+        {
+          "维度": "用户群体",
+          "对标账号特点": "覆盖25-40岁职场人",
+          "你的差异化方向": "可聚焦更细分人群（如宝妈/创业者/00后等）",
+          "示例": "专注某个细分领域，如'30岁职场女性的破局指南'"
+        }
+      ],
+      "未被覆盖的内容角度": [
+        "行业深度分析（对标账号较少涉及具体行业）",
+        "案例故事讲述（对标账号以观点为主，缺少具体案例）",
+        "工具方法分享（如具体的执行清单、模板等）",
+        "争议话题探讨（对标账号较温和，可尝试更有争议性的话题）"
+      ]
+    },
+    "phased_roadmap": {
+      "阶段一：0-3个月（冷启动期）": {
+        "核心目标": "建立账号基础，完成冷启动",
+        "关键动作": [
+          "确定清晰的账号定位和人设（学习对标账号的定位方法）",
+          "建立内容选题库（参考对标账号的4大选题方向）",
+          "掌握4种标题公式，每天练习标题创作",
+          "保持稳定更新频率（至少隔日更，共发布30-50篇）",
+          "在11:00或16:00-17:00时段发布",
+          "主动在相关社群/朋友圈分享内容，积累初始用户"
+        ],
+        "预期效果": "完成30-50篇内容积累，初步建立用户认知",
+        "数据目标": "（需根据实际平台设定，如公众号可设置关注量目标）"
+      },
+      "阶段二：3-6个月（成长期）": {
+        "核心目标": "提升内容质量，建立稳定用户群",
+        "关键动作": [
+          "分析前期数据，识别自己的'爆款'特征",
+          "优化标题和开头，提高打开率和完读率",
+          "尝试系列化内容（如'职场生存系列''财富观点系列'）",
+          "加强评论区互动，建立用户连接",
+          "开始尝试跨平台分发（如小红书、知乎等）",
+          "建立私域社群（如微信群），沉淀核心用户"
+        ],
+        "预期效果": "形成稳定的内容风格和用户群体",
+        "数据目标": "（根据平台设定）"
+      },
+      "阶段三：6-12个月（成熟期）": {
+        "核心目标": "强化个人IP，探索商业化",
+        "关键动作": [
+          "基于用户反馈，明确1-2个核心优势方向",
+          "开发付费产品（如专栏、课程、咨询服务）",
+          "建立内容矩阵（主账号+细分账号/平台）",
+          "与其他KOL互推，扩大影响力",
+          "出版书籍或系列专栏，提升IP价值",
+          "建立稳定的商业变现模式"
+        ],
+        "预期效果": "完成个人IP打造，实现稳定变现",
+        "数据目标": "（根据平台和商业化目标设定）"
+      }
+    },
+    "risk_warnings": [
+      {
+        "风险点": "过度模仿导致账号同质化",
+        "说明": "完全复制对标账号的风格和选题，会导致用户无法识别差异",
+        "应对": "学习其方法论，但需结合自身特点建立差异化"
+      },
+      {
+        "风险点": "资源不匹配",
+        "说明": "对标账号可能有团队支持、资源投入，个人很难完全复制",
+        "应对": "聚焦核心策略（如标题公式、选题方向），暂时放弃需要大量资源的动作"
+      },
+      {
+        "风险点": "平台规则变化",
+        "说明": "平台算法和推荐机制会变化，对标账号的成功经验可能失效",
+        "应对": "持续关注平台动态，保持策略灵活性"
+      },
+      {
+        "风险点": "内容审核风险",
+        "说明": "部分观点型内容可能触及敏感话题或违反平台规则",
+        "应对": "避免极端观点，注意表达方式，必要时咨询专业人士"
+      },
+      {
+        "风险点": "定位冲突",
+        "说明": "如果你的个人背景、价值观与对标账号差异较大，强行模仿会不真实",
+        "应对": "选择与自己价值观相符的对标账号，或进行适当改良"
+      }
+    ]
+  }
+}
