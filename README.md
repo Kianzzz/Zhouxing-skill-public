@@ -128,14 +128,6 @@ cp -r Zhouxing-skill-public/skills/obsidian-markdown /path/to/your/project/.clau
 
 ---
 
-## 赞赏
-
-如果这些技能对你有帮助，欢迎请作者喝杯奶茶 :)
-
-<p align="center">
-  <img src="assets/appreciation-qr.jpg" width="300" alt="赞赏码" />
-</p>
-
 ## 更新记录
 
 - **2026-03-08** — 首次导出
