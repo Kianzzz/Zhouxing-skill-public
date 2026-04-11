@@ -225,16 +225,58 @@ class ArticleExtractor:
         }
 
     def _clean_content(self, element):
-        """清理内容，提取纯文本"""
-        # 获取所有段落
+        """清理内容，提取纯文本（叶子节点提取，避免嵌套重复）"""
+        # 将 <br> 标签转换为换行标记
+        for br in element.find_all('br'):
+            br.replace_with('\n')
+
         paragraphs = []
 
-        for p in element.find_all(['p', 'section', 'div']):
-            text = p.get_text(strip=True)
-            if text and len(text) > 10:  # 过滤太短的段落
+        for el in element.find_all(['p', 'section', 'div']):
+            # 核心修复：只从叶子级块元素提取文本
+            # 如果该元素内部还包含 p/section/div 子元素，跳过它
+            # （它的文本会从更深层的子元素中提取，避免父子重复）
+            if el.find(['p', 'section', 'div']):
+                continue
+
+            text = el.get_text(strip=True)
+            if text and len(text) > 10:
                 paragraphs.append(text)
 
-        return '\n\n'.join(paragraphs)
+        # 叶子节点未提取到内容时，回退到全文按换行分割
+        if not paragraphs:
+            full_text = element.get_text(separator='\n', strip=True)
+            paragraphs = [
+                line.strip() for line in full_text.split('\n')
+                if line.strip() and len(line.strip()) > 10
+            ]
+
+        # 安全兜底：去除因残留嵌套产生的「合并段落」
+        cleaned = self._remove_merged_paragraphs(paragraphs)
+
+        return '\n\n'.join(cleaned)
+
+    def _remove_merged_paragraphs(self, paragraphs):
+        """去除合并段落：一个长段落 = 后续若干短段落的拼接"""
+        if not paragraphs:
+            return paragraphs
+
+        result = []
+        for i, para in enumerate(paragraphs):
+            # 只检查较长的段落（>200字才可能是合并产物）
+            if len(para) > 200 and i + 1 < len(paragraphs):
+                combined = ''
+                is_merged = False
+                for j in range(i + 1, min(i + 30, len(paragraphs))):
+                    combined += paragraphs[j]
+                    if para.replace(' ', '') == combined.replace(' ', ''):
+                        is_merged = True
+                        break
+                if is_merged:
+                    continue
+            result.append(para)
+
+        return result
 
     def _parse_date(self, date_text):
         """解析日期字符串"""

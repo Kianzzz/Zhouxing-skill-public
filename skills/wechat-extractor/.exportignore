@@ -1,0 +1,19 @@
+# macOS 系统文件
+.DS_Store
+
+# 个人数据文件
+data_*.json
+analysis_*.json
+
+# 示例文件（包含个人账号）
+examples/
+
+# 输出目录（包含个人抓取的文章）
+output/
+
+# 个人实践指南
+PRACTICAL_GUIDE.md
+
+# API 改进文档（可能包含敏感信息）
+API_IMPROVEMENT_V2.7.md
+IMPROVEMENT_SUMMARY.md

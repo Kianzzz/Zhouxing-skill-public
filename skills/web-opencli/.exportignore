@@ -1,0 +1,8 @@
+# macOS 系统文件
+.DS_Store
+
+# 评估数据
+evals/
+
+# 个人参考资料
+references/

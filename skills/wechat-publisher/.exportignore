@@ -1,0 +1,7 @@
+# Python 虚拟环境
+venv/
+
+# 个人配置和凭证
+*.json
+*.env
+*.secret

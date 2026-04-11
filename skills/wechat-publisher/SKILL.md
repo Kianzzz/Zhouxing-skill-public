@@ -76,9 +76,9 @@ python3 "$SCRIPT" status
 
 | 风格 | 账号 | 主题 | 代理 | 延迟 | 状态 |
 |------|------|------|------|------|------|
-| oMel | 周行日记 | 荧光高亮-荧光绿 | 直连 (125.92.x.x) | - | ✅ 已连接 |
-| 玄月衡 | 周前路 | 底部短线-酒红 | socks5 (113.88.x.x) | 320ms | ✅ 已连接 |
-| 王翊 | 前路墨香 | 底部短线-酒红 | socks5 (61.141.x.x) | 310ms | ❌ IP 未加白名单 |
+| oMel | 账号1 | 荧光高亮-荧光绿 | 直连 (125.92.x.x) | - | ✅ 已连接 |
+| 玄月衡 | 账号2 | 底部短线-酒红 | socks5 (113.88.x.x) | 320ms | ✅ 已连接 |
+| 王翊 | 账号3 | 底部短线-酒红 | socks5 (61.141.x.x) | 310ms | ❌ IP 未加白名单 |
 
 状态列规则：
 - `wechat_connected=true` → ✅ 已连接
@@ -105,8 +105,8 @@ python3 "$SCRIPT" publish "账号名" "文章1.md" --cover "/path/to/cover.jpg"
 
 多个账号则依次调用：
 ```bash
-python3 "$SCRIPT" publish "周行日记" "A1.md" "B1.md" "C1.md"
-python3 "$SCRIPT" publish "周行Miles" "A2.md" "B2.md" "C2.md"
+python3 "$SCRIPT" publish "账号1" "A1.md" "B1.md" "C1.md"
+python3 "$SCRIPT" publish "账号2" "A2.md" "B2.md" "C2.md"
 ```
 
 **步骤 4：汇报结果**
