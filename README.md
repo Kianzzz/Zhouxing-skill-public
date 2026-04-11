@@ -8,13 +8,13 @@
 
 | 序号 | 名称 | 描述 |
 |------|------|------|
-| 1 | [benchmark-monitor](skills/benchmark-monitor/) |  |
-| 2 | [content-pipeline](skills/content-pipeline/) |  |
-| 3 | [web-opencli](skills/web-opencli/) |  |
-| 4 | [web-search](skills/web-search/) |  |
-| 5 | [wechat-extractor](skills/wechat-extractor/) |  |
-| 6 | [wechat-publisher](skills/wechat-publisher/) |  |
-| 7 | [writing-copilot](skills/writing-copilot/) |  |
+| 1 | [writing-copilot](skills/writing-copilot/) | 写作副驾——AI出初稿、用户修正、风格沉淀的写作飞轮 |
+| 2 | [content-pipeline](skills/content-pipeline/) | 全自动内容创作流水线：从需求到成稿的一站式自动化 |
+| 3 | [web-search](skills/web-search/) | 通用联网搜索工具，支持多平台、多场景的智能搜索和内容提取 |
+| 4 | [wechat-publisher](skills/wechat-publisher/) | 批量发布 Markdown 文章到微信公众号 |
+| 5 | [benchmark-monitor](skills/benchmark-monitor/) | 对标账号分析与选题监控 |
+| 6 | [web-opencli](skills/web-opencli/) | 使用 OpenCLI 浏览器自动化进行网络搜索 |
+| 7 | [wechat-extractor](skills/wechat-extractor/) | 从微信公众号提取文章并保存为 Markdown |
 
 ## 安装方式
 
@@ -39,6 +39,6 @@ cp -r skills/skill-name /path/to/your/project/.claude/skills/
 
 ## 更新记录
 
-- **2026-04-11** — 导出 writing-copilot, content-pipeline, web-search, wechat-publisher, benchmark-monitor, web-opencli, wechat-extractor
+- **2026-04-11** — 更新 7 个 skill：过滤个人配置和敏感数据，替换示例中的具体账号名为通用表达（账号1、账号2等），移除个人 API 配置、参考资料、评估数据等私有内容
 
 - **2026-03-08** — 首次导出
