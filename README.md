@@ -33,9 +33,11 @@ cp -r skills/skill-name /path/to/your/project/.claude/skills/
 
 ## 注意事项
 
-- 部分 skill 的 `references/` 目录下的个人文件已被过滤，你需要根据 SKILL.md 的说明创建自己的配置
-- 每个 skill 的 SKILL.md 是核心入口文件，请先阅读了解用法
-- 如果 skill 依赖外部 API（如 Gemini API），你需要自行配置 API Key
+- 每个 skill 的 `SKILL.md` 是核心入口文件，Claude Code 通过它理解能力边界和执行流程
+- 部分 skill 的个人配置文件（如写作风格、表达库）已被过滤，你需要根据 SKILL.md 的说明创建自己的
+- 需要外部 API 的 skill（如 Gemini API、Pexels API）需自行申请 API Key 并配置
+
+---
 
 ## 更新记录
 
