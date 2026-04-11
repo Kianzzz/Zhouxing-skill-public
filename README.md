@@ -31,6 +31,11 @@ git clone <本仓库地址>
 cp -r skills/skill-name /path/to/your/project/.claude/skills/
 ```
 
+### 方法三：AI安装
+1. 打开skills文件夹，找到需要安装的skill
+2. 复制网站链接，发给Claude code（或codex、gemini、openclaw.....）
+3. 输入指令：帮我安装这个skill
+
 ## 注意事项
 
 - 每个 skill 的 `SKILL.md` 是核心入口文件，Claude Code 通过它理解能力边界和执行流程
@@ -41,6 +46,6 @@ cp -r skills/skill-name /path/to/your/project/.claude/skills/
 
 ## 更新记录
 
-- **2026-04-11** — 更新 7 个 skill：过滤个人配置和敏感数据，替换示例中的具体账号名为通用表达（账号1、账号2等），移除个人 API 配置、参考资料、评估数据等私有内容
+- **2026-04-11** — 更新 7 个 skill
 
 - **2026-03-08** — 首次导出
