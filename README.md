@@ -15,6 +15,7 @@
 | 5 | [benchmark-monitor](skills/benchmark-monitor/) | 对标账号分析与选题监控 |
 | 6 | [web-opencli](skills/web-opencli/) | 使用 OpenCLI 浏览器自动化进行网络搜索 |
 | 7 | [wechat-extractor](skills/wechat-extractor/) | 从微信公众号提取文章并保存为 Markdown |
+| 8 | [zhouxing-paiban-wx](skills/zhouxing-paiban-wx/) | 微信公众号文章实时排版、主题换色、组件设计、富文本复制与风格学习 |
 
 ## 安装方式
 
@@ -45,6 +46,8 @@ cp -r skills/skill-name /path/to/your/project/.claude/skills/
 ---
 
 ## 更新记录
+
+- **2026-08-24** — 新增 zhouxing-paiban-wx
 
 - **2026-04-11** — 更新 7 个 skill
 
