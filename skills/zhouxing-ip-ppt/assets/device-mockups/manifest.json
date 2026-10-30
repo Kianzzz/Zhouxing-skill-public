@@ -1,0 +1,62 @@
+{
+  "source_project": "https://github.com/picturepan2/devices.css",
+  "revision": "11846244977a4905a4fb9ac12bb2121e068d6147",
+  "license": "MIT",
+  "source_css_sha256": "0780a1fc02288a46d684ee16e57145845a9edc2de9842548f409ae152d700e0f",
+  "adaptations": [
+    "MacBook screen-only variant omits base and reduces lower chin to 9px; original CSS retained",
+    "Transparent screen masks and isolated frame PNGs rendered at 3x; no stock wallpaper included"
+  ],
+  "templates": {
+    "iphone-14-pro-silver": {
+      "frame": "iphone-14-pro-silver-frame.png",
+      "screen_mask": "iphone-14-pro-silver-mask.png",
+      "size": [
+        444,
+        884
+      ],
+      "pixel_size": [
+        1332,
+        2652
+      ],
+      "density": 3,
+      "screen_rect": [
+        28,
+        28,
+        390,
+        830
+      ],
+      "screen_radius": "49px",
+      "device": "device-iphone-14-pro device-silver",
+      "variant": "front",
+      "approval_status": "candidate",
+      "frame_sha256": "f92b4a9a53fd739c163080fdc9b1c1069a16fbc4d68abf47f6413813539c26b9",
+      "mask_sha256": "b1549ec161c3eb441fd1226e383a2744ebfea3e4021bad6b37755a5829f89708"
+    },
+    "macbook-pro-screen": {
+      "frame": "macbook-pro-screen-frame.png",
+      "screen_mask": "macbook-pro-screen-mask.png",
+      "size": [
+        634,
+        409
+      ],
+      "pixel_size": [
+        1902,
+        1227
+      ],
+      "density": 3,
+      "screen_rect": [
+        17,
+        17,
+        600,
+        375
+      ],
+      "screen_radius": "10px 10px 0px 0px",
+      "device": "device-macbook-pro",
+      "variant": "thin-screen-only",
+      "approval_status": "candidate",
+      "frame_sha256": "64f38758b1675d609ca3eb25e07fa966d2397deab07cbd875c4bee81be672ee8",
+      "mask_sha256": "02312820a7b74bddba281ef7f0c855dcde36ac6fa0ce2e58f978d40104413650"
+    }
+  }
+}

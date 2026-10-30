@@ -1,0 +1,5 @@
+interface:
+  brand_color: "#28A85B"
+  display_name: "zhouxing-IP-PPT"
+  short_description: "设计字体组合、角色景别与多人场景，制作可编辑的叙事幻灯片"
+  default_prompt: "使用 $zhouxing-ip-ppt，默认采用品牌锚点绿 #28A85B，把我的内容做成有角色场景、真实截图和可控出血的可编辑 PPT，按当前环境工具完成原生排版与验证。"

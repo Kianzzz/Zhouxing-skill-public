@@ -15,6 +15,19 @@
 | 5 | [benchmark-monitor](skills/benchmark-monitor/) | 对标账号分析与选题监控 |
 | 6 | [web-opencli](skills/web-opencli/) | 使用 OpenCLI 浏览器自动化进行网络搜索 |
 | 7 | [wechat-extractor](skills/wechat-extractor/) | 从微信公众号提取文章并保存为 Markdown |
+| 8 | [zhouxing-ip-ppt](skills/zhouxing-ip-ppt/) | 品牌锚点绿 #28A85B；角色场景、真实截图与原生文字排版，输出可编辑 PPT |
+
+## zhouxing-IP-PPT
+
+默认采用周行品牌锚点草木绿 `#28A85B`，结合字体层级、统一间距、全身/半身/近景/多人场景及出血构图，制作带真实截图的可编辑幻灯片。支持默认插画、用户卡通 IP 和真人照片。
+
+![默认风格参考](skills/zhouxing-ip-ppt/assets/default-style-reference.png)
+
+- 完整复制 [`skills/zhouxing-ip-ppt`](skills/zhouxing-ip-ppt/)；以 `SKILL.md` 为入口，保留 references、scripts、assets。
+- 可用于具备对应工具能力的 agent；`agents/openai.yaml` 是可忽略的 Codex 界面配置。详见 [工具适配与依赖](skills/zhouxing-ip-ppt/references/tool-adapters.md)。
+- 需要参考图生图或已有素材、原生幻灯片写入和预览能力。飞书原生稿还需已授权的飞书工具；依赖和字体不会随 Skill 自动安装。
+- Python 检查脚本使用标准库；Node 图片合成与字形测量使用 `@napi-rs/canvas`。默认插画由 AI 生成，仍为候选，不代表用户已认可所有生成变体。
+- 本 Skill 采用 [MIT 许可](skills/zhouxing-ip-ppt/LICENSE)；设备外框衍生自 devices.css，保留其 [MIT 版权声明](skills/zhouxing-ip-ppt/assets/device-mockups/LICENSE-Devices.css.txt)、源版本和适配说明。本许可不延伸到仓库中的其他 Skill。
 
 ## 安装方式
 
@@ -45,6 +58,8 @@ cp -r skills/skill-name /path/to/your/project/.claude/skills/
 ---
 
 ## 更新记录
+
+- **2026-10-30** — 开源 zhouxing-ip-ppt：锚点绿默认主题、可编辑排版与可复用样机
 
 - **2026-04-11** — 更新 7 个 skill
 

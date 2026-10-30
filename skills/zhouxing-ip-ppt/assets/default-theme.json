@@ -1,0 +1,20 @@
+{
+  "name": "zhouxing-anchor-green",
+  "colors": {
+    "accent": "#28A85B",
+    "accent_dark": "#16733D",
+    "accent_light": "#C8F2D5",
+    "accent_surface": "#F4FCF6",
+    "background": "#FFFFFF",
+    "title": "#151A23",
+    "body": "#343B45",
+    "muted": "#667085"
+  },
+  "style_reference": {
+    "path": "default-style-reference.png",
+    "sha256": "0db838f6721bde1ebef659cb812e1c393e10dc7fadcecb49273cd9e91ed59b5e",
+    "origin": "AI-generated editorial illustration; palette edited with the built-in image generation tool",
+    "approval_status": "candidate"
+  },
+  "scope": "Default theme only. Explicit project palettes override it; supplied IP identity colors and authentic screenshots retain their original colors."
+}
