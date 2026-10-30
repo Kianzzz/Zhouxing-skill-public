@@ -19,15 +19,28 @@
 
 ## zhouxing-IP-PPT
 
-默认采用周行品牌锚点草木绿 `#28A85B`，结合字体层级、统一间距、全身/半身/近景/多人场景及出血构图，制作带真实截图的可编辑幻灯片。支持默认插画、用户卡通 IP 和真人照片。
+默认输出可编辑的飞书原生幻灯片，采用周行品牌锚点草木绿 `#28A85B`，结合字体层级、统一间距、全身/半身/近景/多人场景及出血构图，制作带真实截图的可编辑幻灯片。支持默认插画、用户卡通 IP 和真人照片。
 
 ![默认风格参考](skills/zhouxing-ip-ppt/assets/default-style-reference.png)
 
 - 完整复制 [`skills/zhouxing-ip-ppt`](skills/zhouxing-ip-ppt/)；以 `SKILL.md` 为入口，保留 references、scripts、assets。
 - 可用于具备对应工具能力的 agent；`agents/openai.yaml` 是可忽略的 Codex 界面配置。详见 [工具适配与依赖](skills/zhouxing-ip-ppt/references/tool-adapters.md)。
-- 需要参考图生图或已有素材、原生幻灯片写入和预览能力。飞书原生稿还需已授权的飞书工具；依赖和字体不会随 Skill 自动安装。
-- Python 检查脚本使用标准库；Node 图片合成与字形测量使用 `@napi-rs/canvas`。默认插画由 AI 生成，仍为候选，不代表用户已认可所有生成变体。
+- 优先复用 agent 已有的飞书 PPT 工具；缺少时引导安装官方工具并登录授权。安装阶段不生成试稿，例行依赖由 agent 在实际制作时按需准备。
+- 默认流程无需 python-pptx 或 LibreOffice。仅使用内置 Node 合成/测量脚本时需要 `@napi-rs/canvas`，已有等效工具时直接复用；生图或匹配素材仍需由当前环境提供。默认插画由 AI 生成。
 - 本 Skill 采用 [MIT 许可](skills/zhouxing-ip-ppt/LICENSE)；设备外框衍生自 devices.css，保留其 [MIT 版权声明](skills/zhouxing-ip-ppt/assets/device-mockups/LICENSE-Devices.css.txt)、源版本和适配说明。本许可不延伸到仓库中的其他 Skill。
+
+### 分享安装口令
+
+把下面这段发给支持 Skill 安装的 agent 即可：
+
+```text
+请安装或更新这个 Skill，并按它的默认流程完成必要准备：
+https://github.com/Kianzzz/Zhouxing-skill-public/tree/main/skills/zhouxing-ip-ppt
+默认制作飞书 PPT，优先复用你已有的飞书工具；没有时引导我安装并授权。
+装好后简短告诉我如何开始即可。
+```
+
+账号登录、扫码或管理员审批仍需用户本人完成。飞书客户端供查看编辑使用；agent 自动制作还需要相应工具权限。安装本身不创建云文档，首次实际制作时按本次内容检查排版和目标预览。
 
 ## 安装方式
 
@@ -58,6 +71,8 @@ cp -r skills/skill-name /path/to/your/project/.claude/skills/
 ---
 
 ## 更新记录
+
+- **2026-10-30** — 简化 zhouxing-ip-ppt 安装，默认飞书交付，复用已有工具并按需准备依赖
 
 - **2026-10-30** — 开源 zhouxing-ip-ppt：锚点绿默认主题、可编辑排版与可复用样机
 
