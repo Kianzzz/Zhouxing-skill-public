@@ -15,13 +15,13 @@
 | 5 | [benchmark-monitor](skills/benchmark-monitor/) | 对标账号分析与选题监控 |
 | 6 | [web-opencli](skills/web-opencli/) | 使用 OpenCLI 浏览器自动化进行网络搜索 |
 | 7 | [wechat-extractor](skills/wechat-extractor/) | 从微信公众号提取文章并保存为 Markdown |
-| 8 | [zhouxing-ip-ppt](skills/zhouxing-ip-ppt/) | 品牌锚点绿 #28A85B；角色场景、真实截图与原生文字排版，输出可编辑 PPT |
+| 8 | [zhouxing-ip-ppt](skills/zhouxing-ip-ppt/) | 角色驱动配色、媒介化动作、分层造景与原生字体设计，默认飞书 PPT |
 
 ## zhouxing-IP-PPT
 
-默认输出可编辑的飞书原生幻灯片，采用周行品牌锚点草木绿 `#28A85B`，结合字体层级、统一间距、全身/半身/近景/多人场景及出血构图，制作带真实截图的可编辑幻灯片。支持默认插画、用户卡通 IP 和真人照片。
+默认输出可编辑的飞书原生幻灯片。按用户指定或角色识别色/衣着确定配色，只有无角色及配色输入时才采用内置草木绿 `#28A85B`。区分2D、3D与真人的动作策略，结合独立造景层、深浅背景节奏、原生展示字与清晰正文，支持真实截图与出血构图。
 
-![默认风格参考](skills/zhouxing-ip-ppt/assets/default-style-reference.png)
+![无角色输入时的内置2D绿系候选参考](skills/zhouxing-ip-ppt/assets/default-style-reference.png)
 
 - 完整复制 [`skills/zhouxing-ip-ppt`](skills/zhouxing-ip-ppt/)；以 `SKILL.md` 为入口，保留 references、scripts、assets。
 - 可用于具备对应工具能力的 agent；`agents/openai.yaml` 是可忽略的 Codex 界面配置。详见 [工具适配与依赖](skills/zhouxing-ip-ppt/references/tool-adapters.md)。
@@ -71,6 +71,8 @@ cp -r skills/skill-name /path/to/your/project/.claude/skills/
 ---
 
 ## 更新记录
+
+- **2026-10-30** — 角色驱动配色、2D/3D/真人表演策略、分层造景与展示字体设计
 
 - **2026-10-30** — 简化 zhouxing-ip-ppt 安装，默认飞书交付，复用已有工具并按需准备依赖
 

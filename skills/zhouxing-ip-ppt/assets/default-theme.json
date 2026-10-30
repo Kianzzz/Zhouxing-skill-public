@@ -1,5 +1,7 @@
 {
-  "name": "zhouxing-anchor-green",
+  "name": "zhouxing-no-input-green-fallback",
+  "selection_mode": "character-first",
+  "colors_role": "fallback-only",
   "colors": {
     "accent": "#28A85B",
     "accent_dark": "#16733D",
@@ -16,5 +18,11 @@
     "origin": "AI-generated editorial illustration; palette edited with the built-in image generation tool",
     "approval_status": "candidate"
   },
-  "scope": "Default theme only. Explicit project palettes override it; supplied IP identity colors and authentic screenshots retain their original colors."
+  "scope": "Green is only the built-in no-input 2D fallback, not a universal palette. Supplied characters drive the project colors unless explicitly overridden. Backgrounds may vary coherently by page role; authentic screenshots retain original colors.",
+  "selection_priority": [
+    "explicit user palette",
+    "supplied character identity or wardrobe palette",
+    "content and visual reference",
+    "built-in green fallback for no supplied character or palette"
+  ]
 }
