@@ -21,8 +21,14 @@
   "scope": "Green is only the built-in no-input 2D fallback, not a universal palette. Supplied characters drive the project colors unless explicitly overridden. Backgrounds may vary coherently by page role; authentic screenshots retain original colors.",
   "selection_priority": [
     "explicit user palette",
-    "supplied character identity or wardrobe palette",
+    "largest visible chromatic color family of supplied character, excluding background, skin and neutrals",
     "content and visual reference",
     "built-in green fallback for no supplied character or palette"
-  ]
+  ],
+  "palette_policy": {
+    "source": "one dominant chromatic family",
+    "native_colors": "dominant hue tonal scale plus neutral white/near-black/gray",
+    "preserve": "original character and screenshot colors",
+    "avoid": "promoting skin, outlines or small accessories into unrelated page colors"
+  }
 }

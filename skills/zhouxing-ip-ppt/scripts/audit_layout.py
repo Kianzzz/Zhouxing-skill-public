@@ -43,7 +43,7 @@ def audit(doc):
                     vals=[]
                     for oid in c['ids']:
                         b=bound([oid],basis);edge=c.get('edge','left')
-                        vals.append({'left':b[0],'right':b[0]+b[2],'top':b[1],'bottom':b[1]+b[3]}[edge])
+                        vals.append({'left':b[0],'right':b[0]+b[2],'top':b[1],'bottom':b[1]+b[3],'center_x':b[0]+b[2]/2,'center_y':b[1]+b[3]/2}[edge])
                     value=max(vals)-min(vals);ok=value<=tol
                 elif kind in ('gap','gutter'):
                     if c.get('axis','x') not in ('x','y'):raise ValueError('axis must be x or y')
