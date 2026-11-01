@@ -15,39 +15,13 @@
 | 5 | [benchmark-monitor](skills/benchmark-monitor/) | 对标账号分析与选题监控 |
 | 6 | [web-opencli](skills/web-opencli/) | 使用 OpenCLI 浏览器自动化进行网络搜索 |
 | 7 | [wechat-extractor](skills/wechat-extractor/) | 从微信公众号提取文章并保存为 Markdown |
-| 8 | [zhouxing-ip-ppt](skills/zhouxing-ip-ppt/) | 角色驱动配色、媒介化动作、分层造景与原生字体设计，默认飞书 PPT |
+| 8 | [zhouxing-ip-ppt ↗](https://github.com/Kianzzz/zhouxing-ip-ppt) | 角色驱动配色、媒介化动作、分层造景与原生字体设计，默认飞书 PPT |
 
-## zhouxing-IP-PPT
+## zhouxing-IP-PPT 已迁移至独立仓库
 
-默认输出可编辑的飞书原生幻灯片。按用户指定或角色最大面积彩色主色建立“单主色深浅阶＋中性色”配色，排除肤色、背景及零散细节色；只有无角色及配色输入时才采用内置草木绿 `#28A85B`。区分2D、3D与真人的动作策略，结合独立造景层、深浅背景节奏、原生展示字与清晰正文，支持真实截图与出血构图。
+PPT Skill 的代码、实际样页、安装说明和后续更新请访问 **[Kianzzz/zhouxing-ip-ppt](https://github.com/Kianzzz/zhouxing-ip-ppt)**。本合集不再分发该 Skill。
 
-![无角色输入时的内置2D绿系候选参考](skills/zhouxing-ip-ppt/assets/default-style-reference.png)
-
-- 完整复制 [`skills/zhouxing-ip-ppt`](skills/zhouxing-ip-ppt/)；以 `SKILL.md` 为入口，保留 references、scripts、assets。
-- 可用于具备对应工具能力的 agent；`agents/openai.yaml` 是可忽略的 Codex 界面配置。详见 [工具适配与依赖](skills/zhouxing-ip-ppt/references/tool-adapters.md)。
-- 优先复用 agent 已有的飞书 PPT 工具；缺少时引导安装官方工具并登录授权。安装阶段不生成试稿，例行依赖由 agent 在实际制作时按需准备。
-- 默认流程无需 python-pptx 或 LibreOffice。仅使用内置 Node 合成/测量脚本时需要 `@napi-rs/canvas`，已有等效工具时直接复用；生图或匹配素材仍需由当前环境提供。默认插画由 AI 生成。
-- 本 Skill 采用 [MIT 许可](skills/zhouxing-ip-ppt/LICENSE)；设备外框衍生自 devices.css，保留其 [MIT 版权声明](skills/zhouxing-ip-ppt/assets/device-mockups/LICENSE-Devices.css.txt)、源版本和适配说明。本许可不延伸到仓库中的其他 Skill。
-
-### 版式与截图规则
-
-- 按内容选择大数字、左图右文、多框、角色对话或证据标注等布局；每个独立元素尽可能有明确的对齐对应关系，支持可见轮廓与中心对齐检查。
-- 内容框默认协调的小圆角；角色可扶框、趴靠、指向内容或沿页边出血，动作须与页面信息关联。
-- iPhone / 薄 MacBook 样机默认按比例铺满屏幕；支持选择源截图裁切窗口，并记录映射供圈框、箭头同步定位。
-- 编辑前回读最新稿，保留用户手动修改；文字、数字、框线和标注保持原生可编辑。
-
-### 分享安装口令
-
-把下面这段发给支持 Skill 安装的 agent 即可：
-
-```text
-请安装或更新这个 Skill，并按它的默认流程完成必要准备：
-https://github.com/Kianzzz/Zhouxing-skill-public/tree/main/skills/zhouxing-ip-ppt
-默认制作飞书 PPT，优先复用你已有的飞书工具；没有时引导我安装并授权。
-装好后简短告诉我如何开始即可。
-```
-
-账号登录、扫码或管理员审批仍需用户本人完成。飞书客户端供查看编辑使用；agent 自动制作还需要相应工具权限。安装本身不创建云文档，首次实际制作时按本次内容检查排版和目标预览。
+安装或更新时，把新仓库链接发给 Agent；已安装过合集版本的用户更新原有 `zhouxing-ip-ppt` 目录即可，避免重复安装。
 
 ## 安装方式
 
@@ -78,6 +52,8 @@ cp -r skills/skill-name /path/to/your/project/.claude/skills/
 ---
 
 ## 更新记录
+
+- **2026-10-31** — zhouxing-ip-ppt 迁移到独立公开仓库，新增实际样页展示；合集仅保留跳转入口
 
 - **2026-10-30** — 更新 zhouxing-ip-ppt：主色提取、关联对齐与圆角、角色扶框互动；样机默认铺满、源裁切与标注映射
 
